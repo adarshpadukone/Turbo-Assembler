@@ -5,6 +5,17 @@
 # Editing and Redistribution is not permitted
 # This is provided for personal use only
 
+
+Thank you for downloading..
+
+Follow me on:
+http://www.youtube.com/adarshpadukone
+http://www.facebook.com/adarshpadukone
+http://plus.google.com/+adarshpadukone
+http://www.twitter.com/adarshpadukone
+http://androcave.blogspot.com
+
+
 Procedure to install and Run:
 
 Step1: Unzip the file "Tasm by Adarsh.zip"
